@@ -5,7 +5,7 @@ import React, { useState } from 'react'
 // const changename = () => {
 //     name = "Dananjaya";
 //     console.log(name);
-// }   
+// }
 
 function States_learning() {
   
